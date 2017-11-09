@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TareaEBDIP</string>
+    <string name="texto1">Hola la busqueda va a comenzar. Estate muy atento a las indicaciones del juego, solo asi podras encontrar el Intent perdido </string>
+    <string name="texto2">Bien %1$s, ya no hay vuelta atras, ahora solo hace falta que tu valentia y tu sentido conmun te ayuden a encontrar el intent que estamos buscando</string>
+    <string name="texto3">Has elegido el camino correcto %1$s, ya estas muy cerca del Intent perdido, abre la puerta para comprobarlo </string>
+    <string name="botontelefono">VAYA, PARECE QUE NO HAS ELEGIDO EL CAMINO CORRECTO PULSAME PARA PEDIR AYUDA</string>
+    <string name ="acceso_sin_llave">Coge la llave</string>
+    <string name="okllave">Llave con exito</string>
+    <string name="nollave">No Aun no tengo la llave </string>
+    <string name="felicidades">Felicidades has encontrado el INTENT que faltaba!</string>
+</resources>
